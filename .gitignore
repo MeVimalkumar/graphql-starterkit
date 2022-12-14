@@ -1,0 +1,7 @@
+node_modules
+.vscode
+.envs
+coverage
+
+.env
+package-lock.json
